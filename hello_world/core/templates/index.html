@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+    window.onload = function(){
+
+        const css = document.getElementById('css');
+
+        css.addEventListener('click', function(){
+            css.style.color = 'red';
+       });
+    }
+
+    </script>
+</head>
+<body>
+    <h1>{{texto}}</h1>
+    <button type="button" id="css">Aplicar CSS</button>
+</body>
+</html>
