@@ -6,3 +6,6 @@
 
 ### Questao 3
 - O mesmo loop que utilizei para imprimir os valores, foi utilizado para imprimir os indices
+
+# Exercicio  2
+- Utilizei um editor online, por isso não organizei os arquivos como solicitado na atividade
